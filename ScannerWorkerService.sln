@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScannerWorkerService", "ScannerWorkerService\ScannerWorkerService.csproj", "{37E4645A-ECDC-4F59-83F3-207AB363DE8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScanEventAPI", "ScanEventAPI\ScanEventAPI.csproj", "{136CE38F-0489-437E-81F1-D1DB9B8924CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E4645A-ECDC-4F59-83F3-207AB363DE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E4645A-ECDC-4F59-83F3-207AB363DE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E4645A-ECDC-4F59-83F3-207AB363DE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E4645A-ECDC-4F59-83F3-207AB363DE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136CE38F-0489-437E-81F1-D1DB9B8924CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136CE38F-0489-437E-81F1-D1DB9B8924CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136CE38F-0489-437E-81F1-D1DB9B8924CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136CE38F-0489-437E-81F1-D1DB9B8924CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8C706F-398D-4146-B87E-BAC4413D09E8}
+	EndGlobalSection
+EndGlobal
